@@ -2,14 +2,13 @@
 Please clone both frontend and backend code to run  
 
 $ git clone https://github.com/laitrungdung2000/skipli-challege-front.git  
-After that, you will have to install all libraries (dependencies) by running this command below,
+After that, you will have to install all libraries (dependencies) by running this command below,  
 
-$ cd skipli-challege-front
-$ npm install #or npm i
+$ cd skipli-challege-front  
+$ npm install #or npm i  
 Run the command below to start application locally
 
 $ npm start
-Run the command below for generating documentation  
 
 Screenshoot application  
 ![Man 1](https://user-images.githubusercontent.com/41796839/217316788-ea7de472-9148-48b1-9b45-fa815d127fc6.PNG)
