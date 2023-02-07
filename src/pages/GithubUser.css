@@ -1,0 +1,12 @@
+.text-right {
+    width: 100%;
+    text-align: right;
+  }
+  
+.user {
+    cursor: pointer;
+}
+
+.red {
+    color: red;
+}
